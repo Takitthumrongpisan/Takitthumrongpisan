@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Takitthumrongpisan
+- 👋 Hi, Pain is an illusion of the senses, despair an illusion of the mind.
 - 📝 I regularly write articles on [https://th.tradingview.com/u/ABCD6565/](https://th.tradingview.com/u/ABCD6565/)
 
 - 📫 How to reach me **new.takitthumrong@gmail.com**
