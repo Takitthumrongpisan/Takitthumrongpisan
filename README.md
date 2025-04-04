@@ -11,3 +11,37 @@
 [![An image of @takitthumrongpisan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/takitthumrongpisan)](https://holopin.io/@takitthumrongpisan)
 
 
+# Hi, I'm [ชื่อของคุณ] 
+
+ยินดีต้อนรับสู่โปรไฟล์ GitHub ของฉัน!
+
+## เกี่ยวกับฉัน
+
+ฉันเป็น [คำอธิบายสั้นๆ เกี่ยวกับตัวคุณ] ฉันสนใจใน [เทคโนโลยีหรือหัวข้อที่คุณสนใจ] และกำลังเรียนรู้ [สิ่งที่คุณกำลังเรียนรู้]
+
+## ผลงาน
+
+* [ชื่อโปรเจกต์ 1](ลิงก์ไปยังโปรเจกต์ 1) - [คำอธิบายสั้นๆ เกี่ยวกับโปรเจกต์ 1]
+* [ชื่อโปรเจกต์ 2](ลิงก์ไปยังโปรเจกต์ 2) - [คำอธิบายสั้นๆ เกี่ยวกับโปรเจกต์ 2]
+
+## ทักษะ
+
+* ภาษาโปรแกรม: [ภาษาโปรแกรมที่คุณใช้]
+* เทคโนโลยี: [เทคโนโลยีที่คุณใช้]
+* เครื่องมือ: [เครื่องมือที่คุณใช้]
+
+## สถิติ GitHub
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[ชื่อผู้ใช้ GitHub ของคุณ]&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## ติดต่อฉัน
+
+* [ลิงก์ไปยังเว็บไซต์ส่วนตัวของคุณ]
+* [ลิงก์ไปยัง LinkedIn ของคุณ]
+* [ลิงก์ไปยัง Twitter ของคุณ]
+* [อีเมลของคุณ]
+
+## สนับสนุนฉัน
+
+ถ้าคุณชอบผลงานของฉัน โปรดให้ดาว ⭐ กับ repository ของฉัน!
+
