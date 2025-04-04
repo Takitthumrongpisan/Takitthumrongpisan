@@ -32,7 +32,7 @@
 
 ## สถิติ GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[ชื่อผู้ใช้ GitHub ของคุณ]&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Takitthumrongpisan]&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ติดต่อฉัน
 
