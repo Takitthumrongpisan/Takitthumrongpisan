@@ -1,4 +1,4 @@
-- <h1 align="center">Hi , I'm Takit</h1>
+- <h2 align="center">Hi , I'm Takit</h2>
 <h3 align="center">Can design and develop systems to handle complex data, use the right tools, and perform efficient ETL processes. Good at analyzing data issues and suggesting solutions. Skilled in Python, data warehousing, and databases (No code, SQL, Big Data, Python)</h3>
 
 <h3 align="left">Connect with me:</h3>
